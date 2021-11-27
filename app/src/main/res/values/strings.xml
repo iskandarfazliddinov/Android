@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="android">Android dasturlash - Mobil Taraqqiyot
+                Dasturlashni endigina boshlovchilar yoki shu sohaga qiziquvchilar qaysi yo`nalishni tanlash kerak va uning yaqin kelajagi qanday degan savol qiziqtiradi. Albatta, tanlangan yo`nalish jamiyatga foydasi tegadigan, kelajagi bor va eng muhimi yuqori daromadga olib keladigan bo`lishi kerak.
+                Hozirgi kunda dunyo aholisining deyarli barchasi mobil qurilmalarga ega ekanligi hammaga ma`lum. Bu qurilmalarning juda katta qismi Android operatsion tizimida ishlaydi. Statistik ma`lumotlarga qaraganda, aqlli qurilmalar(smart devices)ning 80% dan ortiq qismi Android tizimida ishlaydi. Android tizimi keng imkoniyatli, dasturchilarga qulay, bepul va albatta ochiq kodlidir.
+                Android operatsion tizimi — Linux yadrosida yaratilgan portativ (tizimli) operatsion tizim bo`lib, kommunikatorlar, planshetli kompyuterlar, elektron kitoblar, raqamli pleyerlar, qo`l soatlari, netbuklar, smartbuklar va smartfonlarda ishlaydi. Google tomonidan sotib olingan Android Inc. kompaniyasi tomonidan yaratilgan. Keyinchalik Google tizim rivojlanishi bilan shugʻullanadigan Open Handset Alliance (OHA) ittifoqini tuzdi. Android yordamida Java dasturlarni tuzish mumkin.
+
+                2012-yilning 3-choragida sotilgan smartfonlarning 75 %ida Android operatsion tizimi oʻrnatilgan edi. Bugungi kunga kelib 50 milliarddan ortiq android ilovalari ro`yhatga olingan. Bu android tizimida ishlaydigan qurilmalarning ko`pligi va ular uchun ilovalarga talablarning yuqoriligini ko`rsatadi. AQSHning barcha shaharlaridagi android dasturchilari uchun yillik maosh o`rtacha 68 000$ - 82 000$ oralig`ida qilib bergilangan. O`zbekiston sharoitida Siz boshqalar uchun dasturlarni yozib berish bilan tajribangizga qarab oylik $500 - $2 000 va unda ham ko`proq topa olasiz.
+
+                O`zbekiston sharoitida statistikalarga qaraganda dasturchilarning soni aholining 0.3% dan ham kamroq ekani ko`rsatmoqda, ya`ni 3000 atrofida degani. O`zbekiston sharoitidagi android ilovalarga bo`lgan ehtiyojlarni qondirish uchun ancha kam ko`rsatkich. Android tizimida dastur tuzishning qulayligi va imkoniyatlarni cheklanmaganligi bu tizimni ommalshishiga turtki bo`lmoqda.
+
+                Kimlar o`rgana oladi
+                Dasturlashni o`rganish uchun Siz aynan axborot texnologiyalar sohasida ishlashingiz shart emas. Buni istagan inson o`rganishi mumkin, Siz yurist, iqtisodchi, o`qituvchi yoki istalgan boshqa kasb egasi bo`lishingizdan qat`iy nazar o`rgana olishingiz mumkin. Bu Siz o`ylaganingizdek unchalik qiyin emas ham, unchalik murakkab jarayon ham emas. Faqat huddi hayotdagidek to`g`ri fikrlash, to`g`ri yondashishni bilsangiz bo`lgani. Umuman olganda Sizda mantiq bo`lsa va shu sohaga qiziqishingiz yuqori bo`lsa bas.</string>
+    <string name="ios">iOS - Apple mobil qurilmalari uchun operatsion tizim
+
+IOS iPhone, iPad va iPod Touch qurilmalarini boshqaradigan Apple mobil operatsion tizimi hisoblanadi. Aslida iPhone OS deb nomlanuvchi ushbu nom iPad-ning kiritilishi bilan o`zgartirildi.
+
+IOS ko`p sonli sensorli interfeysdan foydalanadi, unda oddiy ishoralarni qurilmani boshqarish uchun ishlatiladi, masalan, keyingi sahifaga o`tish yoki barmoqlaringizni uzoqlashtirish uchun barmog`ingizni ekran bo`ylab siljitish. Apple App Store-da, har qanday mobil qurilmaning eng mashhur ilovalari do`konida yuklab olish mumkin bo`lgan 2 milliondan ortiq iOS ilovalari mavjud.
+
+2007-yilda iPhone bilan iOS-ning birinchi versiyasidan beri ko`p narsa o`zgardi .
+
+Operatsion tizim nima?
+Eng oddiy sharoitda, siz va jismoniy qurilmangiz o`rtasida mavjud bo`lgan operatsion tizim. Dasturiy ilovalar (ilovalar) buyruqlarini sharhlaydi va u ilovalarni qurilmaning xususiyatlariga, masalan, ko`p sensorli ekran yoki xotira kabi xizmatlarga kirish imkonini beradi.
+
+IOS kabi mobil operatsion tizimlarning aksariyati boshqa operatsion tizimlardan farq qiladi, chunki har bir ilovani o`zlarining himoya qobig`iga qo`yadi, bu esa boshqa ilovalarni ular bilan aralashtirib yubormaydi. Bu virusning virusli dasturlarning boshqa shakllari mavjud bo`lsa-da, mobil ilovalar tizimiga zarar etkazishi mumkinligini keltirib chiqaradi. Ilovalar atrofidagi himoya qobiq cheklovlarni keltirib chiqaradi, chunki ilovalarni bevosita muloqot qilishdan saqlaydi. IOS kengaytma xususiyatini foydalanib, ushbu ilovani boshqa ilovalar bilan bog`lanish uchun tasdiqlash imkonini beruvchi xususiyatga ega bo`ladi.
+
+Siz iOS-dagi multitaskni ishga sola olasizmi?
+Ha, siz iOS-da ko`p ish tutasiz . Apple iPad-dan ajralib chiqqanidan so`ng, ko`p vaqt o`tishi bilan cheklangan shaklni qo`shib qo`ydi. Ushbu multitasking musiqa fonda ishlash uchun musiqa tinglayotganlar kabi jarayonlarga ruxsat berdi. Bundan tashqari, ilovalarni oldingi o`rinlarda bo`lmasa ham, ularni xotirada saqlab qolish imkonini berdi.
+
+Keyinchalik, Apple ba`zi iPad modellarini slayd-ustunli va ajratilgan ko`rinishdagi ko`p vazifalarni bajarish imkonini beradigan xususiyatlarni qo`shdi. Split-view multitasking displeyni ekranning har bir tomonida bitta ilovani ishga tushirish imkonini beruvchi yarmiga ajratadi.
+
+IOS narxi qancha? Qanday qilib yangilanadi?
+Apple operatsion tizim yangilanishlari uchun haq talab qilmaydi. Apple shuningdek, iOS qurilmalarini sotib olgan ikkita dasturiy ta`minot mahsulotlarini taqdim etadi: iWork-ning ofis ilovalari to`plami , jumladan, so`z protsessorlari, elektron jadvallar va taqdimot dasturlari va iLife to`plami, video-tahrirlash dasturlari, musiqa tartibga soluvchi va dasturiy ta`minot va foto-tahrirlash dasturlari. Ushbu operatsion tizim bilan o`rnatilgan Safari, Mail va Notes kabi Apple ilovalaridan tashqari.
+
+Apple yoz oylarida Apple tomonidan ishlab chiquvchi konferentsiyada e`lon bilan yiliga bir marta iOS uchun muhim yangilanishni taqdim etadi. Keyinchalik, iPhone va iPadning eng yangi modellari e`lon qilinishi bilan bog`liq bo`lgan erta kuzda ozodlikka chiqadi. Ushbu bepul versiyalarda operatsion tizimga asosiy funktsiyalar qo`shiladi. Apple shuningdek, yil davomida xato tuzatish va xavfsizlik yamoqlarini chiqaradi.
+
+Qurilmani har bir kichik versiya bilan yangilashim kerak
+Bu versiya kichik ko`rinadigan bo`lsa ham, iPad yoki iPhone-ni yangilash muhimdir. Hollivudning yomon filmi chizig`i kabi ko`rinishi mumkin bo`lsa-da, dasturiy ta`minot ishlab chiquvchilari va xakerlar o`rtasida davom etayotgan urush - yoki, hech bo`lmaganda, davom etadigan o`yin. Yil davomida kichik yamalar ko`pincha xakerlar topgan xavfsizlik sathidagi teshiklarni yamoqqa qaratadi. Apple kecha-kunduzda yangilanishni rejalashtiradigan qurilmalarni yangilashni osonlashtirdi.
+
+Qurilmani iOSning eng yangi versiyasiga qanday yangilash kerak
+IPad, iPhone yoki iPod Touch-ni yangilashning eng oson usuli rejalashtirish xususiyatidan foydalanishdir. Yangi yangilanishlar chiqqandan so`ng, qurilma siz uni kecha davomida yangilashni xohlaysizmi, deb so`raydi. Mulohazalar qutisidan keyinroq o`rnatib qo`ying va yotoqxonaga chiqishdan oldin uni qurilmangizga qo`yishni unutmang.
+
+Siz iPad-ning sozlamalariga kirib , chap tarafdagi General-ni tanlang, so`ngra dasturiy ta`minotni yangilash-ni tanlab yangilashni qo`lda o`rnatishingiz mumkin. Bu sizni yangilanishni yuklab olishingiz va qurilmaga o`rnatishingiz mumkin bo`lgan ekranga olib boradi. Faqatgina talab sizning qurilmangiz jarayonni yakunlash uchun etarli xotira maydoniga ega bo`lishidir .</string>
+    <string name="fultter">Oxirgi yillarda mobil ilovalar tobora ommalashib bormoqda. Natijada, mobil ilovalarni yaratmoqchi bo`lgan dasturchilar uchun ko`plab dasturiy vositalar ishlab chiqilmoqda. Ushbu vositalar orasida so`nggi paytlarda o`z imkoniyatlari bilan ajralib turadigan Flutter ham bor.Flutter - bu Google kompaniyasi tomonidan  2017-yil may oyida chiqarilgan bepul va ochiq manbali mobil interfeys UI hisoblanadi. Qisqacha aytganda, ushbu texnologiya yordamida siz bitta mobil kod yordamida bazaviy mobil ilovani yaratishingiz mumkin bo`ladi. Bu shuni anglatadiki siz bitta dasturlash tili va bitta kod bazasi yordamida ikkita  iOS va Android tizimlariga dasturiy ilovalar yarata olasiz.
+
+Flutter ikkita muhim qismdan iborat:
+
+SDK (Software Development Kit): dasturlaringizni ishlab chiqishda yordam beradigan vositalar to`plami. Bunga kodni mahalliy mashina kodiga (iOS va Android uchun kod) kompilyatsiya qilish vositalari kiradi.
+Framework (Vidjetlar bazasidagi UI kutubxonasi): O`zingizning shaxsiy ehtiyojlaringizga moslashtirishingiz mumkin bo`lgan qayta ishlatiladigan foydalanuvchi interfeysi elementlari to`plami (tugmalar, matnli kirishlar, slayderlar va boshqalar).
+Flutter bilan ishlash uchun siz Dart nomli dasturlash tilidan foydalanasiz. Ushbu til 2011 yil oktyabr oyida Google tomonidan yaratilgan va so`nggi yillarda ushbu til keng imkoniyatlarga ega dasturlash tili sifatida takomillashtirilib kelinmoqda.
+
+Dart asosiy ishlab chiqarishga qaratilgan va siz uni mobil va veb-ilovalarni yaratishda ishlatishingiz mumkin.
+
+Agar siz ozgina bo`lsa ham dasturlashni bilsangiz, Dart - bu obyektni dasturlash tili. Siz Dartning sintaksisini JavaScript bilan taqqoslashingiz mumkin.
+
+"Flutter - bu bitta kod bazasidan mobil, veb va ish stoli uchun chiroyli, tabiiy ravishda yaratilgan dasturlarni yaratish uchun Google-ning UI vositasi." - Google, flutter.dev
+</string>
+    <string name="xamarin">O`tmishda Objective-C va iPhone-ning rivojlanishi bilan mashg`ul bo`lardim, ammo yangi arxitektura va yangi dasturlash tilining kombinatsiyasi men uchun juda ko`p edi. Xamarin studiyasida va C # da dasturlash bilan men bu me`moriy emas, yomonlikni topaman. Xamarin o`yinlarni o`z ichiga olgan har qanday iOs dasturini amalga oshirishga qodir bo`lsa-da, Objective-C ga qaytib kelaman.
+
+Hammasini o`qib chiqing C # haqida
+Bu iOS ilovalarini (ya`ni iPhone va iPad ni) va oxirida Xamarin Studio`dan foydalanib C # dasturida Android ilovalari bo`yicha darsliklarning birinchi to`plamidir. Xamarin studiyasi nima?
+
+Bundan oldin MonoTouch Ios va MonoDroid (Android uchun) deb nomlanuvchi Mac dasturiy ta`minoti Xamarin Studio-dan. Bu Mac OS Xda ishlaydigan IDE va ​​u juda yaxshi. Agar siz MonoDevelop dasturidan foydalangan bo`lsangiz, siz tanish joyga ega bo`lasiz. Menimcha, bu Visual Studio kabi juda yaxshi emas, lekin bu ta`m va xarajat masalasidir. Xamarin studiyasi C #-da iOS ilovalarini ishlab chiqish uchun juda yaxshi va men hozirda hech kimni yaratmaganman.
+
+Xamarin versiyalari
+Xamarin studiyasi to`rtta versiyada ishlaydi: App do`koniga ilovalar yaratish imkonini beradigan bepul dastur bor, biroq u 32Kb bilan chegaralanmaydi, bu juda ko`p emas! Boshqa uch xarajat esa Indii versiyasidan 299 dollardan boshlanadi. Buning ustiga, siz Mac-da rivojlanasiz va har qanday hajmdagi ilovalarni ishlab chiqa olasiz.
+
+Keyingi 999 dollarlik biznes versiyasi va bu menda mavjud. Macdagi Xamarin Studio kabi Visual Studio bilan integratsiya qilinadi, shuning uchun siz iOS / Android ilovalarini .NET C # formatida yozishingiz mumkin. Aqlli hil, siz Visual Studio`da kod kiritishda iPhone / iPad simulyatoridan foydalanib, Appni tuzish va disk raskadrovka qilish uchun Mac foydalanadi.
+
+Katta versiya - korporativ nashrdir, lekin men buni bilmaganim uchun, uni bu erda qamrab olmayman.
+
+Barcha to`rtta holatda siz Mac-ga egalik qilishingiz va App Store-da Apps ilovasini joylashtirishingiz kerak. Har yili Apple $ 99 ni to`lashingiz kerak. Xcode bilan birga kelgan iPhone simulyatoriga qarshi o`ynashingiz kerak bo`lgunga qadar uni to`lashni boshqarishingiz mumkin. Siz Xcode-ni o`rnatishingiz kerak, lekin Mac do`konida va bepul.
+
+Endilikda men Business nashri bilan birgalikda ishlab chiqmoqdaman, lekin Mac-ning o`rniga Windows-ning erkin va Indi-nashrlari bilan emas, balki Visual Studio-ning (va Resharper) to`liq quvvatini ishlatishdan tashqari, bu katta farq emas. Ularning bir qismi Nibbed yoki Nibless rivojlantirishni xohlaysizmi?
+
+Nibbed yoki Nibless
+Xamarin Visual Studio dasturiga yangi menyu variantlari beruvchi plagin sifatida integratsiya qilinadi. Lekin Xcode interfeysi quruvchisi kabi dizaynerlar bilan hali ham kelishmaydi. Agar siz barcha fikrlarni (tekshiruvlar uchun iOS so`zini) ish vaqtida yaratmoqchi bo`lsangiz, unda siz nibsiz ishlashingiz mumkin. Bir nib (kengaytma .xib) nazoratlar va hokazolarni belgilaydigan va hodisalarni bir-biriga bog`laydigan XML faylidir, shuning uchun tekshirish tugmasini bosganingizda, u usulni chaqiradi.
+
+Xamarin Studio shuningdek, Interface Builder-dan nibs yaratish uchun foydalanishni talab qiladi, ammo yozilish vaqtida alfa-holatida Macda ishlaydigan Visual uslubchisi bor.
+
+Men umid qilamanki, kompyuterda ham mavjud bo`ladi.
+
+Xamarin butun iOS API-ni qamrab oladi
+Barcha iOS API juda katta. Apple hozir iOS ishlab chiquvchi kutubxonasida iOSni rivojlantirishning barcha jihatlarini qamrab olgan 1705 ta hujjatga ega. Men oxirgi marta ularga qaradim, chunki sifat juda yaxshilandi.
+
+Xuddi shunday, Xamarin iOS API juda keng qamrovli, ammo siz o`zingizni Apple docs-ga qaytsangiz-da.
+
+Ishni boshlash
+Xamarin dasturini Mac-ni o`rnatganingizdan so`ng, yangi biznes yarating. Loyiha tanlashda iPad, iPhone va Universal, shuningdek, Storyboards ham mavjud. IPhone uchun, sizda bo`sh loyiha, yordamchi dastur, Master-Detail ilovasi, Single View ilovasi, Tabbed Application yoki OpenGl ilovasini tanlashingiz mumkin. Mac va Androidni rivojlantirish uchun sizda o`xshash variantlar mavjud.
+
+Visual Studio dizaynerlarining etishmasligi sababli men bo`sh (Bo`sh loyiha) yo`nalishini olganman. Bu murakkab emas, lekin dizaynni aniq ko`rib chiqishning oson joyi yo`q. Mening vaziyatimda, asosan, kvadrat tugmachalar bilan ishlayotganim uchun bu tashvish emas.
+
+IOS formalarini arxitektura qilish
+Ko`rinishlar va ViewControllers tomonidan tasvirlangan dunyoga kirasiz va ular tushunadigan eng muhim tushunchalar. ViewController (ulardan bir nechta turlari mavjud) ma`lumotlarni qanday aks ettirilishini boshqaradi va ko`rish va resurslarni boshqarish vazifalarini boshqaradi. Haqiqiy ko`rishni ko`rish (yaxshi UIView avlodi) tomonidan amalga oshiriladi.
+
+Foydalanuvchi interfeysi birgalikda ishlaydigan ViewControllers tomonidan aniqlanadi. Biz shunga o`xshash, bu kabi sodda noyob dasturni yaratganimda, o`quv qo`llanmada ikkita ish ko`raylik.
+
+Keyingi o`quv qo`llanmasida ViewControllers saytida chuqurroq narsalarni ko`rib chiqamiz va birinchi to`liq ilovani ishlab chiqamiz.</string>
+    <string name="men">Fazliddinov Iskandar Toshkent Axborot texnalogiyalari Samarqand filali 2-kurs talabasi hozirda android dasturlash buyicha o`rganayotgan dasturchi bir nechta reak proyektlarni yaratgan telefon raqami:+998902857276 https://t.me/portfolio_Dev</string>
+</resources>

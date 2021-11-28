@@ -21,16 +21,17 @@ class MainActivity2 : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
-            R.id.action_seting -> {
-                Toast.makeText(applicationContext, "click on setting", Toast.LENGTH_LONG).show()
+            R.id.til -> {
+                Toast.makeText(applicationContext, "Til", Toast.LENGTH_LONG).show()
                 true
             }
-            R.id.action_share -> {
-                Toast.makeText(applicationContext, "click on share", Toast.LENGTH_LONG).show()
+            R.id.men_haqimda -> {
+                men()
                 return true
             }
-            R.id.action_exit -> {
-                Toast.makeText(applicationContext, "click on exit", Toast.LENGTH_LONG).show()
+            R.id.chiqish -> {
+                finish()
+                System.exit(0)
                 return true
             }
             else -> super.onOptionsItemSelected(item)
@@ -49,7 +50,7 @@ class MainActivity2 : AppCompatActivity() {
             xamarin()
         else if (view.id == 2131230826)
             men()
-        Log.i("klkl", view.id.toString())
+
     }
 
     private fun men() {

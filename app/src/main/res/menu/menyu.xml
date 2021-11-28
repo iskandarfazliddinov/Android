@@ -2,16 +2,16 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_seting"
+        android:id="@+id/chiqish"
         android:orderInCategory="100"
-        android:title="action_settings"/>
+        android:title="Chiqish"/>
     <item
-        android:id="@+id/action_share"
-        android:title="action_share"
+        android:id="@+id/men_haqimda"
+        android:title="Men haqimda"
         app:showAsAction="never"/>
     <item
-        android:id="@+id/action_exit"
-        android:title="action_exit"
+        android:id="@+id/til"
+        android:title="Til"
         app:showAsAction="never"/>
 
 </menu>

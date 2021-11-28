@@ -7,14 +7,42 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
+import android.widget.PopupMenu
 import android.widget.Toast
+import kotlinx.android.synthetic.main.activity_main2.*
 
 class MainActivity2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
+        toolbar.setOnClickListener {
+            override()
+        }
 
     }
+
+    private fun override() {
+        fun onOptionsItemSelected(item: MenuItem): Boolean {
+            return when (item.itemId) {
+                R.id.action_seting -> {
+                    Toast.makeText(applicationContext, "click on setting", Toast.LENGTH_LONG).show()
+                    true
+                }
+                R.id.action_share -> {
+                    Toast.makeText(applicationContext, "click on share", Toast.LENGTH_LONG).show()
+                    return true
+                }
+                R.id.action_exit -> {
+                    Toast.makeText(applicationContext, "click on exit", Toast.LENGTH_LONG).show()
+                    return true
+                }
+                else -> super.onOptionsItemSelected(item)
+            }
+
+        }
+    }
+
+
     fun CardClic(view: View) {
         if (view.id == 2131230822)
             android()
@@ -64,22 +92,5 @@ class MainActivity2 : AppCompatActivity() {
         return true
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
-            R.id.action_seting -> {
-                Toast.makeText(applicationContext, "click on setting", Toast.LENGTH_LONG).show()
-                true
-            }
-            R.id.action_share -> {
-                Toast.makeText(applicationContext, "click on share", Toast.LENGTH_LONG).show()
-                return true
-            }
-            R.id.action_exit -> {
-                Toast.makeText(applicationContext, "click on exit", Toast.LENGTH_LONG).show()
-                return true
-            }
-            else -> super.onOptionsItemSelected(item)
-        }
 
-    }
 }

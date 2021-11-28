@@ -39,15 +39,15 @@ class MainActivity2 : AppCompatActivity() {
     }
 
     fun CardClic(view: View) {
-        if (view.id == 2131230822)
+        if (view.id == R.id.car_1)
             android()
-        else if (view.id == 2131230823)
+        else if (view.id == R.id.car_2)
             ios()
-        else if (view.id == 2131230824)
+        else if (view.id == R.id.car_3)
             fultter()
-        else if (view.id == 2131230825)
+        else if (view.id == R.id.car_4)
             xamarin()
-        else if (view.id == 2131230826)
+        else if (view.id == R.id.car_5)
             men()
         Log.i("klkl", view.id.toString())
     }

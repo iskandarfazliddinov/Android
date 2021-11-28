@@ -97,4 +97,7 @@ Foydalanuvchi interfeysi birgalikda ishlaydigan ViewControllers tomonidan aniqla
 
 Keyingi o`quv qo`llanmasida ViewControllers saytida chuqurroq narsalarni ko`rib chiqamiz va birinchi to`liq ilovani ishlab chiqamiz.</string>
     <string name="men">Fazliddinov Iskandar Toshkent Axborot texnalogiyalari Samarqand filali 2-kurs talabasi hozirda android dasturlash buyicha o`rganayotgan dasturchi bir nechta reak proyektlarni yaratgan telefon raqami:+998902857276 https://t.me/portfolio_Dev</string>
+    <string name="action_settings" />
+    <string name="action_share" />
+    <string name="action_exit" />
 </resources>

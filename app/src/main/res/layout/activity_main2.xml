@@ -11,9 +11,18 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <LinearLayout
+            android:id="@+id/baza"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_gravity="end"
+                android:layout_height="30dp"
+                android:foreground="?selectableItemBackground"
+                android:focusable="true"
+                android:clickable="true"
+                android:src="@drawable/dots"/>
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/car_1"
                 android:layout_width="match_parent"

@@ -14,6 +14,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/my_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?selectableItemBackground"
+                />
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/car_1"
                 android:layout_width="match_parent"

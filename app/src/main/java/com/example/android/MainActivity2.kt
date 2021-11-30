@@ -16,14 +16,28 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
 
+        setSupportActionBar(findViewById(R.id.my_toolbar))
+        supportActionBar?.apply {
+            title = "Toolbar title"
+            subtitle = "toolbar sub title"
+
+            setDisplayShowHomeEnabled(true)
+            setDisplayUseLogoEnabled(true)
+        }
 
     }
 
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        val inflater = menuInflater
+        inflater.inflate(R.menu.menyu, menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        return when (item.itemId) {
+        when (item.itemId) {
             R.id.til -> {
                 Toast.makeText(applicationContext, "Til", Toast.LENGTH_LONG).show()
-                true
+                return true
             }
             R.id.men_haqimda -> {
                 men()
@@ -34,21 +48,21 @@ class MainActivity2 : AppCompatActivity() {
                 System.exit(0)
                 return true
             }
-            else -> super.onOptionsItemSelected(item)
-        }
 
+        }
+        return super.onOptionsItemSelected(item)
     }
 
     fun CardClic(view: View) {
-        if (view.id == 2131230822)
+        if (view.id == R.id. car_1)
             android()
-        else if (view.id == 2131230823)
+        else if (view.id == R.id.car_2)
             ios()
-        else if (view.id == 2131230824)
+        else if (view.id == R.id.car_3)
             fultter()
-        else if (view.id == 2131230825)
+        else if (view.id == R.id.car_4)
             xamarin()
-        else if (view.id == 2131230826)
+        else if (view.id == R.id.car_5)
             men()
 
     }
@@ -83,10 +97,7 @@ class MainActivity2 : AppCompatActivity() {
         startActivity(intent)
     }
 
-    override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        menuInflater.inflate(R.menu.menyu, menu)
-        return true
-    }
+
 
 
 }
